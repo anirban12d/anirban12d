@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anirban</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirban12d&label=Profile%20views&color=c175ff&style=flat-square" alt="anirban12d" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirban12d&label=Profile%20views&color=005f99&style=flat-square" alt="anirban12d" /> </p>
 
 <p align="left"> <a href="https://twitter.com/anirban12d" target="blank"><img src="https://img.shields.io/twitter/follow/anirban12d?logo=twitter&style=for-the-badge" alt="anirban12d" /></a> </p>
 
@@ -12,6 +12,8 @@
 - 💬 Ask me about **javascript, react**
 
 - 📫 How to reach me **anirbandashere@gmail.com**
+
+- ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats-phi-khaki.vercel.app/api/top-langs?username=anirban12d&show_icons=true&theme=algolia&locale=en&layout=compact" alt="anirban12d" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-phi-khaki.vercel.app/api?username=anirban12d&show_icons=true&title_color=e96479&text_color=f5e9cf&bg_color=4d455d&cache_seconds=1800&locale=en" alt="anirban12d" /></p>
+<p>&nbsp;<img align="center" src="https://https://github-readme-stats-phi-khaki.vercel.app/api?username=anirban12d&show_icons=true&title_color=00ead3&text_color=ff449f&bg_color=000000&cache_seconds=1800&locale=en" alt="anirban12d" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirban12d&theme=algolia" alt="anirban12d" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirban12d&theme=algola" alt="anirban12d" /></p>
