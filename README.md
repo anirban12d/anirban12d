@@ -42,7 +42,7 @@
 <a href="https://reactjs.org" target="_blank" rel="noreferrer"><img align="left" alt="React" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /></a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img align="left" alt="Node.js" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /></a>
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img align="left" alt="MongoDB" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" /></a>
-<a href="https://www.blender.org" target="_blank" rel="noreferrer"><img align="left" alt="GitHub" width="28px" src="https://cdn.simpleicons.org/blender/F5792A" style="padding-right:10px;" />
+<a href="https://www.blender.org" target="_blank" rel="noreferrer"><img align="left" alt="GitHub" width="28px" src="https://cdn.simpleicons.org/blender/F5792A" style="padding:10px 10px 0 0;" />
 </p></a>
 
 <p>&nbsp;</p>
