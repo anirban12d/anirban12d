@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/anirban12d" target="blank"><img src="https://img.shields.io/twitter/follow/anirban12d?logo=twitter&style=for-the-badge" alt="anirban12d" /></a> </p>
 
+<img align="right" src="./.img/my-avatar.png" alt="My Avatar" width="300">
+
 - 🌱 I’m currently learning **three.js**
 
 - 👨‍💻 All of my projects are available at [www.anirbandas.in](www.anirbandas.in)
