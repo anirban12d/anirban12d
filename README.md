@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/anirban12d" target="blank"><img align="center" src="https://cdn.simpleicons.org/dev/white" alt="anirban12d" height="32" width="32" /></a>
+<a href="https://dev.to/anirban12d" target="blank"><img align="center" src="https://cdn.simpleicons.org/dev.to/white" alt="anirban12d" height="32" width="32" /></a>
 
 
 
