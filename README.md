@@ -42,8 +42,8 @@
 <br/>
 <br/>
 <div style="display: flex; justify-content: space-between; align-items: center;">
-<img src="https://github-readme-stats-phi-khaki.vercel.app/api/top-langs?username=anirban12d&show_icons=true&title_color=00ead3&text_color=ff449f&bg_color=000000&locale=en&layout=compact" alt="anirban12d" />
-<img src="https://github-readme-stats-phi-khaki.vercel.app/api?username=anirban12d&show_icons=true&title_color=00ead3&text_color=ff449f&bg_color=000000&cache_seconds=1800&locale=en" alt="anirban12d" />
+<img src="https://github-readme-stats-phi-khaki.vercel.app/api/top-langs?username=anirban12d&show_icons=true&title_color=00ead3&text_color=ff449f&bg_color=000000&locale=en&layout=compact" alt="anirban12d" style="display: block;" />
+<img src="https://github-readme-stats-phi-khaki.vercel.app/api?username=anirban12d&show_icons=true&title_color=00ead3&text_color=ff449f&bg_color=000000&cache_seconds=1800&locale=en" alt="anirban12d" style="display: block;" />
 </div>
 <img align="center" src="https://github-readme-streak-stats-anirban12d.vercel.app?user=anirban12d&theme=neon" alt="anirban12d" />
 
