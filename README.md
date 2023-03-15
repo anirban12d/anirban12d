@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirban12d&label=Profile%20views&color=005f99&style=flat-square" alt="anirban12d" /> </p>
 
-<p align="left"> <a href="https://twitter.com/anirban12d" target="blank"><img src="https://img.shields.io/twitter/follow/anirban12d?logo=twitter&style=for-the-badge" alt="anirban12d" /></a> </p>
+<p align="left"> <a href="https://twitter.com/anirban12d" target="blank"><img src="https://img.shields.io/twitter/follow/anirban12d?logo=twitter&style=for-the-badge" alt="anirban12d" /></a> </p> 
 
-<img align="right" src="./.img/my-avatar.png" alt="My Avatar" width="300">
+<a href="https://anirbandas.in" target="_blank"><img align="right" src="./.img/my-avatar.png" alt="My Avatar" width="400"></a>
+
+<p>&nbsp;</p>
 
 - 🌱 I’m currently learning **three.js**
 
