@@ -17,10 +17,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/anirban12d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="anirban12d" height="30" width="40" /></a>
-<a href="https://twitter.com/anirban12d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anirban12d" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anirban12d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirban12d" height="30" width="40" /></a>
-<a href="https://medium.com/@anirban12d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anirban12d" height="30" width="40" /></a>
+<a href="https://dev.to/anirban12d" target="blank"><img align="center" src="https://cdn.simpleicons.org/dev/white" alt="anirban12d" height="32" width="32" /></a>
+
+
+
+
+<a href="https://twitter.com/anirban12d" target="blank"><img align="center" src="https://cdn.simpleicons.org/twitter/white" alt="anirban12d" height="32" width="32" /></a>
+
+<a href="https://linkedin.com/in/anirban12d" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/white" alt="anirban12d" height="32" width="32" /></a>
+
+<a href="https://medium.com/@anirban12d" target="blank"><img align="center" src="https://cdn.simpleicons.org/medium/white" alt="@anirban12d" height="32" width="32" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
