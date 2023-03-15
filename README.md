@@ -41,7 +41,7 @@
 <br/>
 <br/>
 <p><img align="left" src="https://github-readme-stats-phi-khaki.vercel.app/api/top-langs?username=anirban12d&show_icons=true&title_color=00ead3&text_color=ff449f&bg_color=000000&locale=en&layout=compact" alt="anirban12d" /></p>
-
+<br/>
 <p>&nbsp;&nbsp;<img align="right" src="https://github-readme-stats-phi-khaki.vercel.app/api?username=anirban12d&show_icons=true&title_color=00ead3&text_color=ff449f&bg_color=000000&cache_seconds=1800&locale=en" alt="anirban12d" /></p>
-
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats-anirban12d.vercel.app?user=anirban12d&theme=neon" alt="anirban12d" /></p>
