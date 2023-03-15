@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/anirban12d" target="blank"><img src="https://img.shields.io/twitter/follow/anirban12d?logo=twitter&style=for-the-badge&color=1DA1F2" alt="anirban12d" /></a> </p> 
 
-<a href="https://anirbandas.in" target="_blank"><img align="right" src="./.img/my-avatar.png" alt="My Avatar" width="400"></a>
+<a href="https://anirbandas.in" target="_blank"><img align="right" src="./img/my-avatar.png" alt="My Avatar" width="400"></a>
 
 
 
