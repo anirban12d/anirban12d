@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirban12d&label=Profile%20views&color=005f99&style=flat-square" alt="anirban12d" /> </p>
 
-<p align="left"> <a href="https://twitter.com/anirban12d" target="blank"><img src="https://img.shields.io/twitter/follow/anirban12d?logo=twitter&style=for-the-badge" alt="anirban12d" /></a> </p> 
+<p align="left"> <a href="https://twitter.com/anirban12d" target="blank"><img src="https://img.shields.io/twitter/follow/anirban12d?logo=twitter&style=for-the-badge&color=1DA1F2" alt="anirban12d" /></a> </p> 
 
-<span><a href="https://anirbandas.in" target="_blank"><img align="right" src="./.img/my-avatar.png" alt="My Avatar" width="320"></a></span>
+<a href="https://anirbandas.in" target="_blank"><img align="right" src="./.img/my-avatar.png" alt="My Avatar" width="400"></a>
 
 
 
@@ -42,7 +42,7 @@
 <a href="https://reactjs.org" target="_blank" rel="noreferrer"><img align="left" alt="React" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /></a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img align="left" alt="Node.js" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /></a>
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img align="left" alt="MongoDB" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" /></a>
-<a href="https://www.blender.org" target="_blank" rel="noreferrer"><img align="left" alt="GitHub" width="28px" src="https://cdn.simpleicons.org/blender/F5792A" style="padding-right:10px;" />
+<a href="https://www.blender.org" target="_blank" rel="noreferrer"><img align="left" alt="GitHub" width="28px" src="https://cdn.simpleicons.org/blender/F5792A" style="padding:10px 10px 0 0;" />
 </p></a>
 
 <p>&nbsp;</p>
