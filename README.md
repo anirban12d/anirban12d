@@ -7,7 +7,7 @@
 
 <span><a href="https://anirbandas.in" target="_blank"><img align="right" src="./.img/my-avatar.png" alt="My Avatar" width="320"></a></span>
 
-<p>&nbsp;</p>
+
 
 - 🌱 I’m currently learning **three.js**
 
