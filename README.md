@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **javascript, react**
 
-- 📫 How to reach me **anirbandashere@gmail.com**
+- 📫 You can reach me at **anirbandashere@gmail.com**
 
 - ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
 
