@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **three.js**
 
-- 👨‍💻 All of my projects are available at [www.anirbandas.in](www.anirbandas.in)
+- 👨‍💻 All of my projects are available at [www.anirbandas.in](https://www.anirbandas.in)
 
 - 💬 Ask me about **javascript, react**
 
