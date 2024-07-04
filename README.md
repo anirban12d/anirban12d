@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **three.js**
+- 🌱 I’m currently learning **go**
 
 - 👨‍💻 All of my projects are available at [www.anirbandas.in](https://www.anirbandas.in)
 
