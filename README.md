@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anirban12d" target="blank"><img align="center" src="https://cdn.simpleicons.org/twitter/white" alt="anirban12d" height="28" width="28" /></a>
+<a href="https://twitter.com/anirban12d" target="blank"><img align="center" src="https://cdn.simpleicons.org/x/white" alt="anirban12d" height="28" width="28" /></a>
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/anirban12d" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/white" alt="anirban12d" height="28" width="28" /></a>
 &nbsp;&nbsp;
