@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **go**
 
-- 👨‍💻 All of my projects are available at [www.anirbandas.in](https://www.anirbandas.in)
+- 👨‍💻 All of my projects are available at [www.anirbandas.com](https://www.anirbandas.com)
 
 - 💬 Ask me about **javascript, react**
 
