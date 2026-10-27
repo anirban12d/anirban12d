@@ -1,15 +1,17 @@
 #!/usr/bin/env python3
 """The Daily Commit press.
 
-Typesets this profile's front page as SVG plates, one light and one dark per
-plate, then writes README.md around them. Live numbers come from the GitHub
-GraphQL API; when the wire is down, the last good copy in press/wire.json is
-reprinted instead, so a bad morning never breaks the paper.
+Typesets this profile's front page as SVG plates (light and dark, each in a
+desktop cut and a phone cut under edition/mobile/), then writes README.md
+around them. Live numbers come from the GitHub GraphQL API; when the wire is
+down, the last good copy in press/wire.json is reprinted instead, so a bad
+morning never breaks the paper.
 
-    pip install fonttools brotli
+    pip install -r press/requirements.txt
     GITHUB_TOKEN=... python3 press/print.py
 
 Copy lives in press/content.py. Never hand-edit README.md or edition/.
+See press/README.md for adding a project and the phone-edition gotchas.
 """
 
 import base64
@@ -995,7 +997,7 @@ def readme(ed, nav_widths):
             f'<a href="{href(w)}">' + pic("card-" + w["slug"], f"{w['title']} — {w['summary']}", "49%") + "</a>"
             for w in pair
         )
-        for pair in zip(C.WORK[::2], C.WORK[1::2])
+        for pair in (C.WORK[i:i + 2] for i in range(0, len(C.WORK), 2))
     ]
     work_list = "\n".join(f"- **[{w['title']}]({href(w)})** — {w['summary']}" for w in C.WORK)
     blocks = [
