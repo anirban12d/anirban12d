@@ -1,0 +1,46 @@
+name: Print the morning edition
+
+on:
+  schedule:
+    - cron: "30 0 * * *" # 06:00 IST
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["press/**", ".github/workflows/press.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: press
+  cancel-in-progress: false
+
+jobs:
+  print:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: press/requirements.txt
+
+      - run: pip install -r press/requirements.txt
+
+      - name: Run the press
+        run: python press/print.py
+        env:
+          # Optional PRESS_TOKEN (a fine-grained PAT, no scopes needed) gives a
+          # higher rate limit; the built-in token is enough for one run a day.
+          GITHUB_TOKEN: ${{ secrets.PRESS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: File the edition
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md edition press/wire.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Print the edition for $(TZ=Asia/Kolkata date +'%-d %B %Y')"
+          git push

@@ -1,56 +1,65 @@
-<h1 align="center">Hi 👋, I'm Anirban</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- The Daily Commit: printed by press/print.py on 27 October 2026, 22:15 IST. Edit press/content.py, not this file. -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirban12d&label=Profile%20views&color=005f99&style=flat-square" alt="anirban12d" /> </p>
+<div align="center">
 
-<!--- <p align="left"> <a href="https://twitter.com/anirban12d" target="blank"><img src="https://img.shields.io/twitter/follow/anirban12d?logo=twitter&style=for-the-badge&color=1DA1F2" alt="anirban12d" /></a> </p> --->
+<a href="https://www.anirbandas.com"><picture><source media="(prefers-color-scheme: dark)" srcset="edition/masthead-dark.svg"><img src="edition/masthead-light.svg" alt="The Daily Commit — Tuesday, 27 October 2026, Vol. VII, No. 2,216" width="100%"></picture></a>
 
-<a href="https://anirbandas.in" target="_blank"><img align="right" src="./img/my-avatar.png" alt="My Avatar" width="400"></a>
+<a href="https://www.anirbandas.com"><picture><source media="(prefers-color-scheme: dark)" srcset="edition/nav-0-dark.svg"><img src="edition/nav-0-light.svg" alt="Front page" width="16.07%"></picture></a><a href="https://www.anirbandas.com/projects"><picture><source media="(prefers-color-scheme: dark)" srcset="edition/nav-1-dark.svg"><img src="edition/nav-1-light.svg" alt="Case files" width="15.11%"></picture></a><a href="https://www.anirbandas.com/about"><picture><source media="(prefers-color-scheme: dark)" srcset="edition/nav-2-dark.svg"><img src="edition/nav-2-light.svg" alt="Byline" width="11.78%"></picture></a><a href="https://www.linkedin.com/in/anirban12d"><picture><source media="(prefers-color-scheme: dark)" srcset="edition/nav-3-dark.svg"><img src="edition/nav-3-light.svg" alt="LinkedIn" width="13.45%"></picture></a><a href="https://twitter.com/anirban12d"><picture><source media="(prefers-color-scheme: dark)" srcset="edition/nav-4-dark.svg"><img src="edition/nav-4-light.svg" alt="X" width="6.9%"></picture></a><a href="https://dev.to/anirban12d"><picture><source media="(prefers-color-scheme: dark)" srcset="edition/nav-5-dark.svg"><img src="edition/nav-5-light.svg" alt="DEV" width="11.78%"></picture></a><a href="https://medium.com/@anirban12d"><picture><source media="(prefers-color-scheme: dark)" srcset="edition/nav-6-dark.svg"><img src="edition/nav-6-light.svg" alt="Medium" width="12.38%"></picture></a><a href="mailto:anirbandashere@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="edition/nav-7-dark.svg"><img src="edition/nav-7-light.svg" alt="Hire me" width="12.5%"></picture></a>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="edition/ticker-dark.svg"><img src="edition/ticker-light.svg" alt="Breaking: PRESS — VOL. VII, NO. 2,216 ROLLS OFF THE LINE AT 06:00 IST / THIS WEEK — WIRE QUIET; EDITOR REPORTEDLY DEEP IN A REFACTOR / MARKETS — BLUEKEYS CLOSES AT 48 STARS / BREAKING — DEVELOPER CENTERS DIV ON FIRST TRY, PHYSICISTS BAFFLED / OPINION — 'IT WORKS ON MY MACHINE' RULED ADMISSIBLE IN COURT / TECH — LOCAL DEV DELETES node_modules, RECLAIMS 3GB AND THE WILL TO LIVE / MARKET — TYPESCRIPT any-TYPE HITS RECORD LOW AMID STRICT-MODE RALLY / WEATHER — LIGHT MERGE CONFLICTS AT DAWN, HEAVY REBASES BY NOON / SPORTS — TABS VS SPACES ENTERS 47TH SEASON, STILL NO WINNER / OBITUARY — jQuery, STILL RUNNING HALF THE WEB, POLITELY REFUSES TO DIE" width="100%"></picture>
 
+<a href="https://www.anirbandas.com/about"><picture><source media="(prefers-color-scheme: dark)" srcset="edition/lead-dark.svg"><img src="edition/lead-light.svg" alt="Full-Stack Engineer Ships the Boring, Load‑Bearing Parts — On Purpose." width="100%"></picture></a>
 
-- 🌱 I’m currently learning **go**
+<picture><source media="(prefers-color-scheme: dark)" srcset="edition/numbers-dark.svg"><img src="edition/numbers-light.svg" alt="By the numbers: 229 contributions filed in the last twelve months; 56 stars earned across public repositories; 4+ yrs shipping production software; ∞ browser tabs open right now" width="100%"></picture>
 
-- 👨‍💻 All of my projects are available at [www.anirbandas.com](https://www.anirbandas.com)
+<picture><source media="(prefers-color-scheme: dark)" srcset="edition/work-dark.svg"><img src="edition/work-light.svg" alt="Selected work" width="100%"></picture>
 
-- 💬 Ask me about **javascript, react**
+<a href="https://play.google.com/store/apps/details?id=com.txt.launcher"><picture><source media="(prefers-color-scheme: dark)" srcset="edition/card-txt-launcher-dark.svg"><img src="edition/card-txt-launcher-light.svg" alt="An Android Home Screen Where the App Name Is the Icon — A text-only Android launcher, live on Google Play — app names set in type instead of icons, every swipe reassignable, and a widget stack driven by broadcasts rather than polling." width="49%"></picture></a> <a href="https://github.com/anirban12d/bluekeys"><picture><source media="(prefers-color-scheme: dark)" srcset="edition/card-bluekeys-dark.svg"><img src="edition/card-bluekeys-light.svg" alt="A Terminal Typing Trainer That Ships on Homebrew — Monkeytype, but it lives in your terminal — 15+ themes, a 25-lesson touch-typing curriculum, and an error heatmap, rendered with React's Ink and shipped via Homebrew and npm." width="49%"></picture></a>
 
-- 📫 You can reach me at **anirbandashere@gmail.com**
+<a href="https://github.com/anirban12d/repo-radar"><picture><source media="(prefers-color-scheme: dark)" srcset="edition/card-reporadar-dark.svg"><img src="edition/card-reporadar-light.svg" alt="A GitHub Analytics Dashboard for the Numbers-Curious — Point it at any username and it draws the picture: contribution heatmaps, language charts, and a composite profile score — all cached hard with TanStack Query." width="49%"></picture></a> <a href="https://github.com/anirban12d/profile-pulse"><picture><source media="(prefers-color-scheme: dark)" srcset="edition/card-profilepulse-dark.svg"><img src="edition/card-profilepulse-light.svg" alt="A Privacy-First ATS Resume Analyzer — Upload a resume, get an ATS-style report across five dimensions and 170+ skills. The engine runs entirely in memory — files never touch a disk — wired end-to-end with tRPC." width="49%"></picture></a>
 
-- ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
+<a href="https://github.com/anirban12d/blogzilla"><picture><source media="(prefers-color-scheme: dark)" srcset="edition/card-blogzilla-dark.svg"><img src="edition/card-blogzilla-light.svg" alt="A Notion-Style Blogging Platform with AI On Tap — A blogging platform that feels like Notion and writes like a co-author: slash commands, AI generation via the Vercel AI SDK, Better Auth, and Drizzle over Postgres." width="49%"></picture></a> <a href="https://github.com/anirban12d/Moviez"><picture><source media="(prefers-color-scheme: dark)" srcset="edition/card-moviez-dark.svg"><img src="edition/card-moviez-light.svg" alt="A Real-Time Movie Database, State Managed — Built to get the fundamentals right: Redux for predictable global state, real-time fetching, and error handling that fails gracefully instead of white-screening." width="49%"></picture></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/anirban12d" target="blank"><img align="center" src="https://cdn.simpleicons.org/x/white" alt="anirban12d" height="28" width="28" /></a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/anirban12d" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/white" alt="anirban12d" height="28" width="28" /></a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/anirban.jpg" target="blank"><img align="center" src="https://cdn.simpleicons.org/instagram/white" alt="anirban12d" height="28" width="28" /></a>
-&nbsp;&nbsp;
-<a href="https://dev.to/anirban12d" target="blank"><img align="center" src="https://cdn.simpleicons.org/dev.to/white" alt="anirban12d" height="28" width="28" /></a>
-&nbsp;&nbsp;
-<a href="https://medium.com/@anirban12d" target="blank"><img align="center" src="https://cdn.simpleicons.org/medium/white" alt="@anirban12d" height="28" width="28" /></a>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="edition/year-dark.svg"><img src="edition/year-light.svg" alt="The year in print: 229 contributions in the last twelve months" width="100%"></picture>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img align="left" alt="Visual Studio Code" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /></a>
-<a href="https://html.com" target="_blank" rel="noreferrer"><img align="left" alt="HTML5" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /></a>
-<a href="https://www.css3.com" target="_blank" rel="noreferrer"><img align="left" alt="CSS3" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /></a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img align="left" alt="Sass" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"><img align="left" alt="JavaScript" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /></a>
-<a href="https://reactjs.org" target="_blank" rel="noreferrer"><img align="left" alt="React" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img align="left" alt="Node.js" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /></a>
-<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img align="left" alt="MongoDB" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" /></a>
-<a href="https://www.blender.org" target="_blank" rel="noreferrer"><img align="left" alt="GitHub" width="28px" src="https://cdn.simpleicons.org/blender/F5792A" style="padding:10px 10px 0 0;" />
-</p></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="edition/markets-dark.svg"><img src="edition/markets-light.svg" alt="Markets and the practice" width="100%"></picture>
 
-<p>&nbsp;</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="edition/classifieds-dark.svg"><img src="edition/classifieds-light.svg" alt="Classifieds" width="100%"></picture>
 
-<p>&nbsp;</p>
+<a href="mailto:anirbandashere@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="edition/coupon-dark.svg"><img src="edition/coupon-light.svg" alt="Write to the editor: anirbandashere@gmail.com" width="100%"></picture></a>
 
-<p><img align="left" src="https://github-readme-stats-pi-neon-82.vercel.app/api/top-langs?username=anirban12d&show_icons=true&title_color=00ead3&text_color=ff449f&bg_color=000000&locale=en&layout=compact" alt="anirban12d" /></p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="edition/colophon-dark.svg"><img src="edition/colophon-light.svg" alt="Colophon" width="100%"></picture>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-pi-neon-82.vercel.app/api?username=anirban12d&show_icons=true&title_color=00ead3&text_color=ff449f&bg_color=000000&cache_seconds=1800&locale=en" alt="anirban12d" /></p>
+<img src="https://komarev.com/ghpvc/?username=anirban12d&label=CIRCULATION&color=16161a&style=flat-square" alt="Circulation">
 
-<p><img align="center" src="https://github-readme-streak-stats-my8y.vercel.app/?user=anirban12d&theme=neon" alt="anirban12d" /></p>
+</div>
+
+<details>
+<summary><b>Text-only edition</b> · for screen readers, crawlers, and the terminally curious</summary>
+
+### Full-Stack Engineer Ships the Boring, Load-Bearing Parts — On Purpose.
+
+**Remote-first, filing from Kolkata** — Anirban Das is a full-stack developer who builds the boring-but-critical parts well: auth, data, real-time, and the AI features layered on top. He started chasing clean UIs; now he chases correctness under load.
+
+Four years and four teams: document intelligence at Bau.ai in Berlin, AI-assisted diagnostics at Medecro.ai, an in-browser OS frontend at ProjectX, and legal-tech at Legabyte. The through-line never changes: own the data model, the API, and the frontend — then stay through the on-call.
+
+#### Selected work
+
+- **[An Android Home Screen Where the App Name Is the Icon](https://play.google.com/store/apps/details?id=com.txt.launcher)** — A text-only Android launcher, live on Google Play — app names set in type instead of icons, every swipe reassignable, and a widget stack driven by broadcasts rather than polling.
+- **[A Terminal Typing Trainer That Ships on Homebrew](https://github.com/anirban12d/bluekeys)** — Monkeytype, but it lives in your terminal — 15+ themes, a 25-lesson touch-typing curriculum, and an error heatmap, rendered with React's Ink and shipped via Homebrew and npm.
+- **[A GitHub Analytics Dashboard for the Numbers-Curious](https://github.com/anirban12d/repo-radar)** — Point it at any username and it draws the picture: contribution heatmaps, language charts, and a composite profile score — all cached hard with TanStack Query.
+- **[A Privacy-First ATS Resume Analyzer](https://github.com/anirban12d/profile-pulse)** — Upload a resume, get an ATS-style report across five dimensions and 170+ skills. The engine runs entirely in memory — files never touch a disk — wired end-to-end with tRPC.
+- **[A Notion-Style Blogging Platform with AI On Tap](https://github.com/anirban12d/blogzilla)** — A blogging platform that feels like Notion and writes like a co-author: slash commands, AI generation via the Vercel AI SDK, Better Auth, and Drizzle over Postgres.
+- **[A Real-Time Movie Database, State Managed](https://github.com/anirban12d/Moviez)** — Built to get the fundamentals right: Redux for predictable global state, real-time fetching, and error handling that fails gracefully instead of white-screening.
+
+#### The practice
+
+- **Full-stack, end-to-end.** From schema to pixel. I design the data model, build the API, wire the frontend, and stay through the on-call. PMs get estimates that hold; users get features that don't flake.
+- **AI features that actually ship.** X-ray analysis, transcription, document auto-fill, RAG. I make the model useful inside a real product — with guardrails, evals, and a sane fallback for when it's confidently wrong.
+- **The un-glamorous core.** RBAC, multi-tenancy, WebSockets, PDF pipelines, migrations. The parts nobody demos but everybody depends on at 2 a.m. My natural habitat.
+
+#### Write to the editor
+
+[anirbandashere@gmail.com](mailto:anirbandashere@gmail.com) · [anirbandas.com](https://www.anirbandas.com) · [LinkedIn](https://www.linkedin.com/in/anirban12d) · [X](https://twitter.com/anirban12d) · [DEV](https://dev.to/anirban12d) · [Medium](https://medium.com/@anirban12d)
+
+</details>
